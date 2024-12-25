@@ -6,7 +6,7 @@ from sklearn.ensemble import RandomForestClassifier
 
 #задаем название на первой странице приложения. После реализации этой части кода запустите приложение и попробуйте поменять название на главной странице и затем запустить приложение через терминал. Посмотрите как реагирует приложение на изменение названия в коде.
 st.write("""
-# Simple Iris Flower Prediction App.
+# fSimple Iris Flower Prediction App.
 This app predicts the **Example** type!
 """)
 
